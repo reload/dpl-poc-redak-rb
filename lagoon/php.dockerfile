@@ -1,1 +1,1 @@
-FROM ghcr.io/reload/dpl-poc-php:2.0.0
+FROM ghcr.io/reload/dpl-poc-php:2.0.1

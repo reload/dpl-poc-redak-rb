@@ -1,1 +1,1 @@
-FROM ghcr.io/reload/dpl-poc-cli:2.0.0
+FROM ghcr.io/reload/dpl-poc-cli:2.0.1
